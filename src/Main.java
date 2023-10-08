@@ -127,6 +127,6 @@ public class Main {
     System.out.println("Денис теперь получает " + newDenisSalary + " рублей. Годовой доход вырос на "
         + yearDenisDifferenceSalary + " рублей.");
     System.out.println("Кристина теперь получает " + newKristinaSalary + " рублей. Годовой доход вырос на "
-        + yearKristinaDifferenceSalary + " рублей.");
+        + yearKristinaDifferenceSalary + " рублей");
   }
 }
